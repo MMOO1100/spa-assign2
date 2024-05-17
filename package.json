@@ -1,0 +1,16 @@
+{
+  "name": "spa_assignment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "format": "prettier --write *.js **/*.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "env": "^0.0.2",
+    "express": "^4.19.2",
+    "mongoose": "^8.3.5"
+  }
+}
